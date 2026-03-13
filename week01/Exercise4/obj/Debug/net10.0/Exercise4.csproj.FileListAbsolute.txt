@@ -1,0 +1,15 @@
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\bin\Debug\net10.0\Exercise4.exe
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\bin\Debug\net10.0\Exercise4.deps.json
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\bin\Debug\net10.0\Exercise4.runtimeconfig.json
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\bin\Debug\net10.0\Exercise4.dll
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\bin\Debug\net10.0\Exercise4.pdb
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.AssemblyInfoInputs.cache
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.AssemblyInfo.cs
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.sourcelink.json
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.dll
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\refint\Exercise4.dll
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.pdb
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\Exercise4.genruntimeconfig.cache
+C:\Users\Gabriella Ilunga\OneDrive\Desktop\CSE210\CSE210-projects\week01\Exercise4\obj\Debug\net10.0\ref\Exercise4.dll
