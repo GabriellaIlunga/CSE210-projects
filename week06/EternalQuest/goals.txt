@@ -1,0 +1,2 @@
+5000
+EternalGoal:happy,choosing happiness,5000
